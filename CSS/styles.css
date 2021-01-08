@@ -1,0 +1,144 @@
+a {
+  font-size: 20px;
+
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+h1 {
+  margin: 65px 0 0 0;
+  font-size: 6rem;
+  color: #11999E;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #11999E;
+}
+
+h3 {
+  font-size: 30px;
+  color: #216785;
+}
+
+hr {
+  height: 0;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 20px;
+  width: 20%;
+  margin: 100px auto 100px auto;
+
+}
+
+p {
+  font-family: 'Prata', serif;
+}
+
+.admindescription {
+width: 75%;
+}
+
+.bottom-container {
+  background-color: #32a873;
+  height: 200px;
+  position: relative;
+  margin-top: 30px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.coding {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+
+
+.calendar {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.footerlink {
+display: inline-block;
+font-size: 20px;
+font-family: 'Sacromento';
+padding-top: 120px;
+}
+
+
+.header1 {
+  margin: auto;
+  color: #216785;
+  font-size: 2rem;
+}
+
+.header2 {
+  margin: auto;
+
+}
+
+.middle-container {
+  width: 45%;
+  margin: auto;
+}
+
+.mountain {
+  margin-top: 60px;
+}
+
+.skills {
+  margin: auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  }
+
+.tatumphoto {
+  margin-top: 100px;
+}
+
+.webdescription {
+  display: inline;
+}
